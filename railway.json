@@ -1,0 +1,4 @@
+{
+  "buildCommand": "npm install --production && npm run build",
+  "startCommand": "npm run start"
+}
